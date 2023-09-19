@@ -1,0 +1,26 @@
+Harry_Potter.html 42.00962074209243
+Tom_Riddle.html 6.141971688426335
+Albus_Dumbledore.html 1.369269541705458
+Hermione_Granger.html 0.9344732605706293
+**********
+Hermione_Granger.html 8.410259345135664
+Ronald_Weasley.html 7.0937831821595285
+Harry_Potter.html 5.728584646648968
+Ginevra_Weasley.html 0.6334184257783937
+**********
+Harry_Potter.html 28.64292323324484
+Tom_Riddle.html 24.56788675370534
+Albus_Dumbledore.html 4.107808625116373
+Severus_Snape.html 1.1708935382347787
+**********
+Hogwarts_School_of_Witchcraft_and_Wizardry.html 7.503539645748019
+Harry_Potter.html 5.728584646648968
+Tom_Riddle.html 4.606478766319752
+Albus_Dumbledore.html 4.107808625116373
+**********
+Harry_Potter.html 22.91433217659587
+Draco_Malfoy.html 1.5551815765128081
+Hermione_Granger.html 0.9343732605706293
+Ronald_Weasley.html 0.8867229917599411
+**********
+
