@@ -1,2 +1,1 @@
-Exercise 4: [Battleships] - Aliasing, Scopes & Mutability
-
+Exercise 5: [image processing] - Multidimentional lists
